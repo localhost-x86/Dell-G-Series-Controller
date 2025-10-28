@@ -507,7 +507,7 @@ class TrayIcon(QSystemTrayIcon):
 if __name__ == '__main__':
     # Create the Qt Application
     app = QApplication(sys.argv)
-    icon = QIcon.fromTheme("alienarena")
+    icon = QIcon.fromTheme("applications-games")
     app.setWindowIcon(icon)
     app.setQuitOnLastWindowClosed(False)
 

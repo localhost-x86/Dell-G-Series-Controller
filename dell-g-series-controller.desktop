@@ -5,4 +5,4 @@ Type=Application
 Terminal=false
 Exec=/usr/bin/python /opt/dell-g-series-controller/main.py
 Name=Dell G Series Controller
-Icon=alienarena
+Icon=applications-games
